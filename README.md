@@ -9,3 +9,4 @@ A Ultimate Way To Allow Player To Nick
  ultimatenick.main
  ultimatenick.whitelisted
  ultimatenick.blacklisted
+ ultimatenick.nick
